@@ -1,2 +1,2 @@
 # hello-tebo
-jut try
+just try
